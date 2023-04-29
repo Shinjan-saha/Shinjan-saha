@@ -10,7 +10,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinjan-saha&label=Profile%20views&color=0e75b6&style=flat" alt="shinjan-saha" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
