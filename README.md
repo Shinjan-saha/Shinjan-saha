@@ -42,7 +42,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinjan-saha&" alt="shinjan-saha" /></p>
-
+ <img height="160" src="https://github-readme-stats.vercel.app/api?username=shinjan-saha&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  </P><br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinjan-saha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
