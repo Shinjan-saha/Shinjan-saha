@@ -30,15 +30,16 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=shinjan-saha&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-<br/>
+<!-- ![](https://github-profile-trophy.vercel.app/?username=shinjan-saha&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+<br/> -->
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=shinjan-saha&theme=juicyfresh)](https://github.com/shinjan-saha/github-profile-trophy)
 
 
 
 ## &#x1f4c8; GitHub Stats
 [![Shinjan's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shinjan-saha&theme=react-dark)](https://github.com/shinjan-saha)
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinjan-saha&" alt="shinjan-saha" /></p>
