@@ -38,7 +38,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
-
+[![Shinjan's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shinjan-saha&theme=react-dark)](https://github.com/shinjan-saha)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinjan-saha&" alt="shinjan-saha" /></p>
