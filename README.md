@@ -50,5 +50,8 @@
  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shinjan-saha&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
   </P><br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinjan-saha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align=left> 
+<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=shinjan-saha&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="AdityaSeth777" /></p>
+
+</div>
 
