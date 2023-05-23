@@ -39,7 +39,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <!-- [![Shinjan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shinjan-saha&theme=xcode)](https://github-readme-activity-graph.cyclic.app) -->
-
+[![Shinjan's github activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shinjan-saha&theme=dracula)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinjan-saha&" alt="shinjan-saha" /></p>
