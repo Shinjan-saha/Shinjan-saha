@@ -38,17 +38,9 @@
 
 
 ## &#x1f4c8; GitHub Stats
-<!-- [![Shinjan's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shinjan-saha&theme=react-dark)](https://github.com/shinjan-saha)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-```
-```
+<!-- [![Shinjan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shinjan-saha&theme=xcode)](https://github-readme-activity-graph.cyclic.app) -->
 
-<!-- <div align=center>
-   <a href="https://github.com/Sabyasachi-Seal" target="_blank">
-   <img align=center width=100% src="https://raw.githubusercontent.com/shinjan-saha/shinjan-saha/main/3DGraphs/profile-night-rainbow.svg"/>
-   </a>
-</div> -->
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinjan-saha&" alt="shinjan-saha" /></p>
  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shinjan-saha&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
