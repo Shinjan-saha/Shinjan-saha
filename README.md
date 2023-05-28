@@ -42,9 +42,13 @@
 
 [![Shinjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shinjan-saha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinjan-saha&" alt="shinjan-saha" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinjan-saha&" alt="shinjan-saha" /></p>
  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shinjan-saha&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </P><br>
+  </P><br> -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shinjan-saha&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=shinjan-saha&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A" />
+</p>
 
 <div align=left> 
 <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=shinjan-saha&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="AdityaSeth777" /></p>
