@@ -39,6 +39,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <!-- [![Shinjan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shinjan-saha&theme=xcode)](https://github-readme-activity-graph.cyclic.app) -->
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 [![Shinjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shinjan-saha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
