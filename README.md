@@ -38,12 +38,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
-<!-- [![Shinjan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shinjan-saha&theme=xcode)](https://github-readme-activity-graph.cyclic.app) -->
 
- 
- 
- 
-<!--  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"> -->
  
  
  <img align="centre" width= "400" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif">
@@ -58,10 +53,15 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinjan-saha&" alt="shinjan-saha" /></p>
  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shinjan-saha&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
   </P><br> -->
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shinjan-saha&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=shinjan-saha&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A" />
-</p>
+ <div align="center">
+   <a href="https://github.com/Sabyasachi-Seal">
+   <img src="https://github-readme-stats.vercel.app/api?username=shinjan-saha&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=49% height=100%/>
+   </a>
+   <a href="https://github.com/shinjan-saha">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=shinjan-saha&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="sabyasachi-seal" width=49% height=100%/>
+   <br/>
+   </a>
+</div>
 
 <div align=left> 
 <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=shinjan-saha&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="AdityaSeth777" /></p>
