@@ -65,6 +65,8 @@
    </a>
 </div>
 
+
+
  <div align="center">
 <a href="https://github.com/shinjan-saha">
     <img src="https://github-stats-alpha.vercel.app/api?username=shinjan-saha&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
@@ -72,8 +74,10 @@
  </div>
 
 
+
+ 
  <div align="center">
-<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=shinjan-saha&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="AdityaSeth777" /></p>
+<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=shinjan-saha&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="shinjansaha" /></p>
 
 </div>
 
