@@ -48,13 +48,15 @@
 
 
 
+
+
 [![Shinjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shinjan-saha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinjan-saha&" alt="shinjan-saha" /></p>
  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shinjan-saha&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
   </P><br> -->
  <div align="center">
-   <a href="https://github.com/Sabyasachi-Seal">
+   <a href="https://github.com/shinjan-saha">
    <img src="https://github-readme-stats.vercel.app/api?username=shinjan-saha&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=49% height=100%/>
    </a>
    <a href="https://github.com/shinjan-saha">
@@ -62,6 +64,13 @@
    <br/>
    </a>
 </div>
+
+ <div align="center">
+<a href="https://github.com/shinjan-saha">
+    <img src="https://github-stats-alpha.vercel.app/api?username=shinjan-saha&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+ </div>
+
 
 <div align=left> 
 <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=shinjan-saha&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="AdityaSeth777" /></p>
