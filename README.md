@@ -65,8 +65,8 @@
    </a>
 </div>
 
-
-[![Shinjan-saha's GitHub | Stats](https://stats.quine.sh/Shinjan-saha/github?theme=dark)](https://quine.sh)
+<div align="centre" src="https://stats.quine.sh/Shinjan-saha/github?theme=dark)](https://quine.sh">
+<!-- [![Shinjan-saha's GitHub | Stats](https://stats.quine.sh/Shinjan-saha/github?theme=dark)](https://quine.sh) -->
 
 
 
