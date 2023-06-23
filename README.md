@@ -66,12 +66,7 @@
 </div>
 
 
-
- <div align="center">
-<a href="https://github.com/shinjan-saha">
-    <img src="https://github-stats-alpha.vercel.app/api?username=shinjan-saha&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
- </div>
+[![Shinjan-saha's GitHub | Stats](https://stats.quine.sh/Shinjan-saha/github?theme=dark)](https://quine.sh)
 
 
 
