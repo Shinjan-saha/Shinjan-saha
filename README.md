@@ -41,6 +41,7 @@
 
 ##  Hacktoberfest'23:-
 
+[![An image of @shinjansaha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shinjansaha)](https://holopin.io/@shinjansaha)
 
 
 ## &#x1f4c8; GitHub Stats
