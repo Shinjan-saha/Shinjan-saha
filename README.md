@@ -80,7 +80,7 @@
 [![Shinjan-saha's GitHub | Stats](https://stats.quine.sh/Shinjan-saha/github?theme=dark)](https://quine.sh)
 
   
- 
+ [![Shinjan-saha's GitHub | Dependencies](https://stats.quine.sh/Shinjan-saha/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shinjan-saha)
 
 
 
