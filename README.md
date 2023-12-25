@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 # 💫 About Me:
  ➡️Get a glance about me :-https://shinjan-portfolio-new.vercel.app/
- <br>➡️Currently Learning Java & Flutter <br>
+ <br>➡️Currently Learning Kotlin & Flutter <br>
 
 
 
