@@ -64,7 +64,7 @@
   </P><br> -->
  <div align="center">
    <a href="https://github.com/shinjan-saha">
-   <img src="https://github-readme-stats.vercel.app/api?username=shinjan-saha&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=49% height=100%/>
+   <p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Shinjan-saha&show_icons=true&rank_icon=github&theme=radical&card_width=320" /></p>
    </a>
    <a href="https://github.com/shinjan-saha">
    <img src="https://github-readme-streak-stats.herokuapp.com?user=shinjan-saha&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="shinjan saha" width=49% height=100%/>
