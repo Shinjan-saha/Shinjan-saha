@@ -48,7 +48,7 @@
 
  
  
- <img align="centre" width= "400" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif">
+ <img align="right" src="./profile-3d-contrib/profile-night-rainbow.svg" alt = "stats" /></p>
 
 
 
