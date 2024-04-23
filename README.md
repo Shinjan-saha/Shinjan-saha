@@ -43,6 +43,16 @@
 [![An image of @shinjansaha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shinjansaha)](https://holopin.io/@shinjansaha)
 
 
+### LeetCode Stats :
+
+<div align="center">
+
+<a href="https://leetcode.com/Shinjan_Saha-2004/"><img src="https://leetcard.jacoblin.cool/Shinjan_Saha-2004?ext=contest">
+
+</div>
+
+
+
 ## &#x1f4c8; GitHub Stats
 
  
