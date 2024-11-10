@@ -3,7 +3,9 @@
 <h3 align="center">A Passionate engineer interested in creating Websites,IOT projects, Apps & Games</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
- 💫Get a glance about me :-http://shinjansaha02.me/
+ 
+ [Get a glance about me](http://shinjansaha02.me/)
+
  <br>➡️Currently Learning Cyberspec & AIML <br>
 
 
@@ -35,11 +37,12 @@
 
 ## 💻 My workspace
 
-![](https://img.shields.io/badge/Windows_11-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
-![](https://img.shields.io/badge/i5_12th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5)
-![](https://img.shields.io/badge/Kali_Linux-2023.4-informational?style=flat&logo=KaliLinux&logoColor=white&color=517E98)
-![](https://img.shields.io/badge/RAM-16_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
+## Previous Setup
+- **Operating System**: Windows 11
+- **Environment**: Kali Linux (virtual machine or dual boot)
 
+## Updated Setup
+- **Operating System**: macOS Ventura 13.5 (M1 Chip, 8GB RAM)
 ## 🏆 GitHub Trophies
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=shinjan-saha&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
