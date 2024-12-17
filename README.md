@@ -100,6 +100,9 @@
 
 [![Shinjan-saha's GitHub | Stats](https://stats.quine.sh/Shinjan-saha/github?theme=dark)](https://quine.sh)
 
+
+[! [Line of codes]](https://api.githubtrends.io/user/svg/Shinjan-saha/langs?time_range=one_year&compact=True&theme=synthwaves)
+
   
  [![Shinjan-saha's GitHub | Dependencies](https://stats.quine.sh/Shinjan-saha/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shinjan-saha)
 
