@@ -94,7 +94,6 @@
 </div>
 
  <div align="center">
-<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=shinjan-saha&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="shinjansaha" /></p>
 
 </div>
 
@@ -105,7 +104,6 @@
 
 
 
-[![Shinjan-saha's GitHub | Lines of Code](https://api.githubtrends.io/user/svg/Shinjan-saha/langs?time_range=one_year&compact=True&theme=synthwaves)
 
 
 
